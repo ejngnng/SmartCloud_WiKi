@@ -2,4 +2,4 @@
 wiki for SmartCloud porject
 
 # Laravel PHP framework
-[github](https://github.com/laravel/laravel)
+[Laravel](https://github.com/laravel/laravel)
