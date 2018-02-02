@@ -34,6 +34,7 @@ wiki for SmartCloud porject
 ``` 添加composer环境变量
 2. vim ~/.profile
 3. export PATH=$PATH:$HOME/.config/composer/vendor/bin
+4. source ~/.profile
 
 ```
 
@@ -71,4 +72,24 @@ wiki for SmartCloud porject
 3. sudo vim /etc/apache2/sites-available/000-default.conf
 4. 改 DocumentRoot /var/www/SmartCloud/public
 5. sudo systemctl restart apache2
+```
+
+
+### Other
+
+* 查看laravel 版本
+```
+1. cd SmartCloud
+2. php artisan --version
+```
+
+* vim 常用配置 ~/.vimrc
+```
+set nu
+set syntax=on
+set tabstop=4
+set autoindent
+set cindent
+set hlsearch
+set incsearch
 ```
