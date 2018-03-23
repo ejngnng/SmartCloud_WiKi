@@ -1,6 +1,7 @@
-#Items
-|id| Iltem Name | Description | Command Types |
-|:---|:------|:-------|:-------|:-------|
+# Items
+
+|id|Item Name | Description | Command Types |
+|:--|:-----------|:--------------|:------------|
 |1|**Color**		| Color information (RGB)						|	OnOff, IncreaseDecrease, Percent, HSB|
 |2|**Contact**	| Item storing status of e.g. door/window contacts	| OpenClose |
 |3|**DateTime**	|Stores date and time	| - |
