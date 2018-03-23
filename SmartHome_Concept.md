@@ -5,7 +5,7 @@
 |1|**Color**		| Color information (RGB)						|	OnOff, IncreaseDecrease, Percent, HSB|
 |2|**Contact**	| Item storing status of e.g. door/window contacts	| OpenClose |
 |3|**DateTime**	|Stores date and time	| - |
-|4|**Dimmer **	|Item carrying a percentage value for dimmers |	OnOff, IncreaseDecrease, Percent |
+|4|**Dimmer**	|Item carrying a percentage value for dimmers |	OnOff, IncreaseDecrease, Percent |
 |5|**Group** | Item to nest other items / collect them in groups	| - |
 |6|**Image**	| Holds the binary data of an image|	-  |
 |7|**Location** |Stores GPS coordinates	| Point |
